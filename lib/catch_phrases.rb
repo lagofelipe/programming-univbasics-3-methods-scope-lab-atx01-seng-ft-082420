@@ -8,6 +8,16 @@ def toadstool
   puts status
 end
 
+def link
+  output = "It's Dangerous To Go Alone! Take This."
+  puts output
+end
+
+
+
+
+
+
 
 
 #def mario
